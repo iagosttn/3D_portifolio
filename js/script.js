@@ -506,9 +506,9 @@ function createPortfolioElements() {
         0xffff00,
         [
             '🌐 Onde me encontrar:',
-            'LinkedIn: linkedin.com/in/iagosoares',
-            'Gmail: iago.soares@gmail.com',
-            'GitHub: github.com/iagosoares'
+            'LinkedIn: --------------------------',
+            'Gmail: iagosantanasoares06@gmail.com',
+            'GitHub: https://github.com/iagosttn'
         ],
         [
             '⏱️ Respondo e-mails em até 24 horas',
